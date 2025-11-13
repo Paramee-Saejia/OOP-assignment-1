@@ -63,10 +63,10 @@ To run the test suite, execute test_oop.py directly:
 
 Git Version Control
 The following commits were made during development:
-- (Missed) Initial commit for procedural code conversion
+- Initial commit for procedural code conversion
 - Book class implemented and tested
 - Member class implemented and tested
 - Library class implemented and tested
 - Final integration and testing of all classes
 - git commit readme (i forgot to add it to Final commit)
-Note: The first commit was unintentionally skipped during setup. The procedural code was already complete and used as reference.
+
